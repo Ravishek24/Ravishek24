@@ -32,7 +32,6 @@ I'm a backend-focused developer with a passion for **financial systems**, **mach
 ## 📫 Connect with Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/ravishek-singh-000b50118)
-- 🌐 [strikecolor1.com](https://strikecolor1.com)
 - ✉️ Email: mail.ravishek@gmail.com
 
 ---
