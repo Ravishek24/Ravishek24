@@ -23,9 +23,9 @@ I'm a backend-focused developer with a passion for **financial systems**, **mach
 
 ## 📈 GitHub Stats
 
-![Ravishek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Ravishek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ravishek24&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ravishek24&layout=compact&theme=radical)
 
 ---
 
