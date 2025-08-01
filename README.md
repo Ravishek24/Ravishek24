@@ -22,12 +22,17 @@ I'm a backend-focused developer with a strong foundation in **Node.js**, a curio
 ## 🔧 Tech Stack
 
 ![Node.js](https://img.shields.io/badge/-Node.js-333?style=flat&logo=node.js)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus)
 ![MySQL](https://img.shields.io/badge/-MySQL-00758F?style=flat&logo=mysql)
 ![Redis](https://img.shields.io/badge/-Redis-D82C20?style=flat&logo=redis)
+![BullMQ](https://img.shields.io/badge/-BullMQ-EA580C?style=flat&logo=nodedotjs)
+![WebSockets](https://img.shields.io/badge/-WebSockets-35495E?style=flat&logo=socketdotio)
 ![React](https://img.shields.io/badge/-React-333?style=flat&logo=react)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws)
 ![Expo](https://img.shields.io/badge/-Expo-000020?style=flat&logo=expo)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws)
 ![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=flat&logo=cloudflare)
+
 
 ---
 
