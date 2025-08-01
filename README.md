@@ -1,11 +1,21 @@
-# 👋 Hi, I'm Ravishek Singh
+<h1 align="center">Hey 👋, I'm Ravishek Singh</h1>
+<p align="center">
+  <em>Backend Developer | Fintech Enthusiast | System Design Explorer</em>
+</p>
 
-I'm a backend-focused developer with a passion for **financial systems**, **machine learning**, and **high-performance distributed infrastructure**.
+---
 
-- 🛠️ Currently building systems using **Node.js**, **MySQL (Aurora)**, **Redis**, **WebSockets**, and **React**
-- ⚡ Exploring **Go** and **C++** for ultra-low latency systems (like HFT)
-- 💼 Interested in startups and fintech backend architecture
-- 🚀 Deployed projects on **AWS (EC2, ElastiCache)** with **Cloudflare** for performance and security
+### 🧠 About Me
+
+I'm a backend-focused developer with a strong foundation in **Node.js**, a curiosity for **high-frequency trading (HFT)** systems, and a passion for building **financial infrastructure** that's fast, reliable, and scalable.
+
+> "Code is cheap, low-latency architecture is art."
+
+- 🛠️ Building real-time systems with **Node.js**, **MySQL (Aurora)**, **Redis**, **WebSockets**, and **React**
+- ⚡ Exploring **Go** and **C++** for low-level, ultra-low-latency backend systems
+- 🧠 Deep interest in **financial markets**, **market data pipelines**, and **quant systems**
+- 🚀 Deploying and scaling applications on **AWS EC2**, **ElastiCache**, proxied through **Cloudflare**
+- 💡 I thrive in **startup environments** where ownership, pace, and clarity matter
 
 ---
 
