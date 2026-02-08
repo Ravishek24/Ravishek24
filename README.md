@@ -1,21 +1,24 @@
 <h1 align="center">Hey 👋, I'm Ravishek Singh</h1>
 <p align="center">
-  <em>Backend Developer | Fintech Enthusiast | System Design Explorer</em>
+  <em>Startup-Focused AI & Backend Engineer | Building Scalable Systems</em>
 </p>
 
 ---
 
-### 🧠 About Me
+### 🚀 About Me
 
-I'm a backend-focused developer with a strong foundation in **Node.js**, a curiosity for **high-frequency trading (HFT)** systems, and a passion for building **financial infrastructure** that's fast, reliable, and scalable.
+I build backend systems and AI-driven features for products that need to move fast and scale reliably.
 
-> "Code is cheap, low-latency architecture is art."
+My focus is simple: design clean architecture, ship fast, and make systems that hold up under real usage.
 
-- 🛠️ Building real-time systems with **Node.js**, **MySQL (Aurora)**, **Redis**, **WebSockets**, and **React**
-- ⚡ Exploring **Go** and **C++** for low-level, ultra-low-latency backend systems
-- 🧠 Deep interest in **financial markets**, **market data pipelines**, and **quant systems**
-- 🚀 Deploying and scaling applications on **AWS EC2**, **ElastiCache**, proxied through **Cloudflare**
-- 💡 I thrive in **startup environments** where ownership, pace, and clarity matter
+- 🛠️ Building production systems using **Node.js**, **MySQL (Aurora)**, **Redis**, **WebSockets**, and **React**
+- 🧠 Developing practical **ML-powered features** using **Python**
+- ⚡ Exploring **Go** and **C++** for high-performance backend components
+- 📊 Interested in **financial systems**, **market data pipelines**, and performance-focused engineering
+- ☁️ Deploying and scaling on **AWS**, optimizing infrastructure for reliability and cost
+- 💡 Comfortable taking ownership — from backend architecture to deployment
+
+I enjoy working in early-stage environments where clarity, speed, and execution matter more than process.
 
 ---
 
@@ -23,32 +26,32 @@ I'm a backend-focused developer with a strong foundation in **Node.js**, a curio
 
 ![Node.js](https://img.shields.io/badge/-Node.js-333?style=flat&logo=node.js)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus)
 ![MySQL](https://img.shields.io/badge/-MySQL-00758F?style=flat&logo=mysql)
 ![Redis](https://img.shields.io/badge/-Redis-D82C20?style=flat&logo=redis)
-![BullMQ](https://img.shields.io/badge/-BullMQ-EA580C?style=flat&logo=nodedotjs)
 ![WebSockets](https://img.shields.io/badge/-WebSockets-35495E?style=flat&logo=socketdotio)
 ![React](https://img.shields.io/badge/-React-333?style=flat&logo=react)
-![Expo](https://img.shields.io/badge/-Expo-000020?style=flat&logo=expo)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws)
 ![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=flat&logo=cloudflare)
 
+---
+
+## 📈 What I Care About
+
+- Scalable backend architecture  
+- Low-latency system design  
+- Practical machine learning integration  
+- Clean APIs and maintainable code  
+- Shipping features that solve real problems  
 
 ---
 
-## 📈 GitHub Stats
-
-![Ravishek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ravishek24&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ravishek24&layout=compact&theme=radical)
-
----
-
-## 📫 Connect with Me
+## 📫 Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/ravishek-singh-000b50118)
-- ✉️ Email: mail.ravishek@gmail.com
+- ✉️ mail.ravishek@gmail.com
 
 ---
 
-_“Move fast, stay stable, and build things that matter.”_
+<sub>Build fast. Keep it stable. Scale with intent.</sub>
